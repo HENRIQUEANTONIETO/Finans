@@ -1,2 +1,2 @@
 # Finans
- Site fictício feito em bootstrap para demostração e prática de conhecimento
+ Site fictício feito em bootstrap para prática e demonstração de conhecimento
